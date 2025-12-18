@@ -52,7 +52,6 @@ O plano abrange os seguintes pontos:
 
 ## 🐞 Fluxograma de Tratamento de Bugs
 
-> Insira aqui o fluxo para reportar, priorizar e corrigir bugs (pode ser uma imagem ou enumeração de etapas):
 1. Identificação
 2. Reprodução
 3. Registro
